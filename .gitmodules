@@ -1,0 +1,4 @@
+[submodule "RLJO/logistic"]
+	path = RLJO/logistic
+	url = git@github.com:RLJO/logistic.git
+	branch = master
